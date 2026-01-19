@@ -1,0 +1,23 @@
+{
+  "name": "cc-plugin",
+  "version": "1.0.0",
+  "description": "Ian's custom Claude Code plugins collection",
+  "owner": {
+    "name": "yyeon2",
+    "email": "pushpyy@gmail.com"
+  },
+  "repository": "https://github.com/pyy0715/claude-code-marketplace",
+  "license": "MIT",
+  "plugins": [
+    {
+      "name": "planner",
+      "description": "Manus-style persistent markdown planning for context engineering - the workflow pattern behind the $2B acquisition",
+      "version": "1.0.0",
+      "author": {
+        "name": "yyeon2",
+        "email": "pushpyy@gmail.com"
+      },
+      "source": "./plugins/planner"
+    }
+  ]
+}

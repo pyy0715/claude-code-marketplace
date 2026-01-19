@@ -1,0 +1,17 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "Persistent markdown planning for Claude Code - context engineering workflow pattern",
+  "author": {
+    "name": "yyeon2",
+    "email": "pushpyy@gmail.com"
+  },
+  "keywords": [
+    "planning",
+    "context-engineering",
+    "workflow",
+    "markdown",
+    "persistence"
+  ],
+  "license": "MIT"
+}
